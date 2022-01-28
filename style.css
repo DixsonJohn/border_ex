@@ -1,0 +1,64 @@
+#dashed{
+    background-color: rgb(204, 197, 197);
+    height: 60px;
+    border: 5px dashed rgb(131, 130, 130);
+    color: red;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#dotted{
+    background-color: rgb(204, 197, 197);
+    height: 60px;
+    border: 5px dotted rgb(131, 130, 130);
+    color: red;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#double{
+    background-color: rgb(204, 197, 197);
+    height: 60px;
+    border: 5px double rgb(131, 130, 130);
+    color: red;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#inset{
+    background-color: rgb(204, 197, 197);
+    height: 60px;
+    border: 5px inset rgb(131, 130, 130);
+    color: red;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#groove{
+    background-color: rgb(204, 197, 197);
+    height: 60px;
+    border: 5px groove rgb(131, 130, 130);
+    color: red;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#outset{
+    background-color: rgb(204, 197, 197);
+    height: 60px;
+    border: 5px outset rgb(131, 130, 130);
+    color: red;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#ridge{
+    background-color: rgb(204, 197, 197);
+    height: 60px;
+    border: 5px ridge rgb(131, 130, 130);
+    color: red;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#solid{
+    background-color: rgb(204, 197, 197);
+    height: 60px;
+    border: 5px solid rgb(131, 130, 130);
+    color: red;
+    text-align: center;
+    margin-bottom: 30px;
+}
